@@ -1,1 +1,1 @@
-# Githib / Git Tutorials
+# Github / Git Tutorials
